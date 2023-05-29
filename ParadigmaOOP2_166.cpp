@@ -28,3 +28,7 @@ public:
 	}
 
 };
+
+class pelajar : private manusia, public orang {
+
+};
